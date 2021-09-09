@@ -32,7 +32,7 @@ Starting your journey
 
 First, clone this repository:
 
-    $ git clone https://github.com/kuahyeow/git-workshop.git
+    $ git clone https://github.com/unawaz1996/intro-to-bioinfo
 
 You may want to fork (create your own copy of) the project on github and
 clone from your own repo. You can find the fork button at the top right of
@@ -41,7 +41,7 @@ the screen on a github repository, or more help about doing that [here](https://
 Once you have cloned your repository, you should now see a directory
 called `git-workshop`. This is your `working directory`
 
-    $ cd git-workshop
+    $ cd intro-to-bioinfo
     $ ls
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/20px-Help-browser.svg.png)
