@@ -4,7 +4,7 @@
 
 Join us on [slack](combine-au.slack.com) and our [mailing list](https://www.combine.org.au/join/). Our `#ask_anything` channel on slack is open for questions.
 
-# Introduction to Bioinformatics 
+# Introduction to Bioinformatics
 COMBINE Australia Introduction to bioinformatics workshop:
 - When: Day 1: 15th September 11:00 – 15:00 AEST; Day 2: 16th September 11:00 – 15:00
 - Where: Online via zoom (link provided upon registration)
@@ -22,7 +22,8 @@ Requirements:
 - Web browser
 - Zoom
 - Slack
-    
+- Command line (mac and linux users have this as terminal. [windows users can download putty](https://www.putty.org/))
+
 # Useful references
 - [Software carpentries (shell)](http://swcarpentry.github.io/shell-novice/)
 - [Software carpentries (git)](http://swcarpentry.github.io/git-novice)
