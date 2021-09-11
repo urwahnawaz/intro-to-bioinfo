@@ -22,6 +22,7 @@ Requirements:
 - Web browser
 - Zoom
 - Slack
+- Github account [(sign up for free here)](https://github.com)
 - Command line (mac and linux users have this as terminal. [windows users can download putty](https://www.putty.org/))
 
 # Useful references
