@@ -9,7 +9,7 @@
 ### Accessing shell
 - Mac or Linux machine: Access via Terminal
 - Windows: Access via PuTTy
-	- IP address `ec2-user@203.101.228.128` and PW: `combine2021`
+	- IP address `ec2-user@203.101.228.128` and PW: `******`
 	- SSH - `22`
 	- Press `Open`
 ## Navigating files and directories
