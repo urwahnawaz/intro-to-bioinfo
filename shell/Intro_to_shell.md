@@ -15,7 +15,7 @@
 ## Navigating files and directories
 - `pwd` - print where we are, i.e. current working directory
 - `ls` - flags `-`
-	- `man ls` - you can navigate through the documentation and know the purpose of each flags
+	- `man ls` - you can navigate through the documentation and know the purposes of each flags.
 	- Exercise: Use the `-l` option for the `ls` command to display more information for each item in the directory. What is one piece of additional information this long format gives you that you don’t see with the bare `ls` command?
 		- Answer: The additional information given includes the name of the owner of the file, when the file was last modified, and whether the current user has permission to read and write to the file.
 	- Shortcut: Tab Completion 
@@ -31,21 +31,17 @@
 > > ~~~
 > > $ ls -l
 > > ~~~
-> > {: .bash}
 > > 
 > > ~~~
 > > total 8
 > > drwxr-x--- 2 dcuser dcuser 4096 Jul 30  2015 sra_metadata
 > > drwxr-xr-x 2 dcuser dcuser 4096 Nov 15  2017 untrimmed_fastq
 > > ~~~
-> > {: .output}
 > > 
 > > The additional information given includes the name of the owner of the file,
 > > when the file was last modified, and whether the current user has permission
 > > to read and write to the file.
-> > 
-> {: .solution}
-{: .challenge}
+
 
 
 - `cd` - Change the directory
