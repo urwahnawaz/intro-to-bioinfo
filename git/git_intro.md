@@ -23,9 +23,6 @@ other people who download the project.
     $ git config --global user.name "Your Name"
     $ git config --global user.email your.email@example.com
 
-As a helpful step, you may want to set Git to use your favourite editor
-
-    $ git config --global core.editor emacs
 
 Starting your journey
 ---------------------
