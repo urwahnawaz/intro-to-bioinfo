@@ -30,5 +30,6 @@ Requirements:
 - [Software carpentries (git)](http://swcarpentry.github.io/git-novice)
 - [Latex templates (includes many journals)](https://www.overleaf.com/latex/templates)
 - [Example RNA-seq workflow](https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html)
-
+- [Introduction to differential gene expression](https://hbctraining.github.io/DGE_workshop_salmon_online/lessons/01a_RNAseq_processing_workflow.html)
+- [Ten simple rules for getting started with command-line bioinformatics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008645)
 [Visit our website here.](https://www.combine.org.au/) Contact us at [combine@combine.org](mailto:combine@combine.org.au).
