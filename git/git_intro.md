@@ -107,11 +107,10 @@ involved in each commit. To view more information about a commit, use
 
 You should see something similar to:
 
-    commit 5a1fad96c8584b2c194c229de7e112e4c84e5089
-    Author: kuahyeow 
-    Date:   Sun Jul 17 19:13:42 2011 +1200
+    Author: unawaz1996 <a1654797@adelaide.edu.au>
+    Date:   Wed Sep 15 10:43:39 2021 +1000
 
-        I am adding two new files
+    I am adding files
 
     diff --git a/alice.txt b/alice.txt
     new file mode 100644
