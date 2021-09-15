@@ -9,7 +9,7 @@
 ## Navigating files and directories
 1. `pwd` - print where we are, i.e. current working directory
 2. `ls` - list the files in the directory
-	- flags `-`
+	- flags `-` :  For eg, `ls -a`
 	- `man ls` - you can navigate through the documentation and know the purposes of each flag.
 	
 > ## Challenge
@@ -25,7 +25,14 @@
 	- `q` - quit
 	- `/` - search 
 
-4. `cd` - Change the directory
+4. You can use the flags in combination. For eg,`ls -al` 
+
+5. `cd` - Change the directory
+```{bash}
+$ cd data
+$ ls
+$ cd ..
+```
 
 ### Useful tips and tricks 🛠
 1. Tab completion: 
